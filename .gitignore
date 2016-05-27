@@ -1,5 +1,10 @@
 .DS_Store
 
-# Craft Storage (cache) [http://buildwithcraft.com/help/craft-storage-gitignore]
+# Craft runtime and backups folders
+# ----------------------------------------------------------------------
 /craft/storage/*
 !/craft/storage/logo/*
+
+# Uploaded files
+# ----------------------------------------------------------------------
+/public/assets/uploads/*
