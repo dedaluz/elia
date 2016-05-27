@@ -8,3 +8,4 @@
 # Uploaded files
 # ----------------------------------------------------------------------
 /public/assets/uploads/*
+!/public/assets/uploads/.gitignore
